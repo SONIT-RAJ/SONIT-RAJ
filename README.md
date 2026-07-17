@@ -119,12 +119,9 @@
 
 ---
 
-# 📊 Contribution Graph
+## 📊 Contribution Graph
 
-```md
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SONIT-RAJ&theme=tokyo-night)
-```
-
 ---
 
 # 🌐 Connect With Me
@@ -132,14 +129,14 @@
 - 📧 Email: **124102065@nitkkr.ac.in**
 - 💼 LinkedIn: www.linkedin.com/in/sonit-raj
 - 💻 GitHub: https://github.com/SONIT-RAJ
-- 🟡 LeetCode: [YOUR_LEETCODE_PROFILE](https://leetcode.com/u/SONIT_RAJ/)
-- 🔵 Codeforces: [YOUR_CODEFORCES_PROFILE](https://codeforces.com/profile/Sonit_Raj_01)
+- 🟡 LeetCode: [LEETCODE_PROFILE](https://leetcode.com/u/SONIT_RAJ/)
+- 🔵 Codeforces: [CODEFORCES_PROFILE](https://codeforces.com/profile/Sonit_Raj_01)
 
 ---
 
 ## 💬 Quote
 
-> *"Consistency beats intensity. Solve problems, build products, and never stop learning."*
+> **"Consistency beats intensity. Solve problems, build products, and never stop learning."**
 
 ---
 
